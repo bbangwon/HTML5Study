@@ -26,6 +26,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HTML기본2", "HTML기본2"
 		Navi_dr.png = Navi_dr.png
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HTML기본3", "HTML기본3", "{ED682AAB-18BF-4A30-BFE2-172CF7261D22}"
+	ProjectSection(SolutionItems) = preProject
+		HTMLPage10.html = HTMLPage10.html
+		HTMLPage11.html = HTMLPage11.html
+		HTMLPage9.html = HTMLPage9.html
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
