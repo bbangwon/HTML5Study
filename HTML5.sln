@@ -64,6 +64,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSS기본3", "CSS기본3", 
 		HTMLPage26.html = HTMLPage26.html
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSS기본4", "CSS기본4", "{06410EF4-0AF9-4F21-97F2-61FC8DF0575E}"
+	ProjectSection(SolutionItems) = preProject
+		HTMLPage27.html = HTMLPage27.html
+		HTMLPage28.html = HTMLPage28.html
+		HTMLPage29.html = HTMLPage29.html
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
