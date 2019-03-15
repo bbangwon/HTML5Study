@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+        body div div{
+            width: 100px;
+            height: 100px;
+            text-align:center;
+            color:white;
+            font-weight:bold;            
+        }
+
+        div div:nth-child(1){
+            background-color:red;
+        }
+
+        div div:nth-child(2){
+            background-color:greenyellow;
+        }
+        div div:nth-child(3){
+            background-color:blue;
+        }
+
+        #display_none div:nth-child(2){
+            display: none;
+        }
+
+        #visiblility_hidden div:nth-child(2){
+            visibility: hidden;
+        }
+    </style>
+</head>
+<body>
+    <div id="display_none">
+        <div>
+            content1
+        </div>
+        <div>
+            content2
+        </div>
+        <div>
+            content3
+        </div>
+    </div>
+    <div id="visiblility_hidden">
+        <div>
+            content1
+        </div>
+        <div>
+            content2
+        </div>
+        <div>
+            content3
+        </div>
+    </div>
+</body>
+</html>
