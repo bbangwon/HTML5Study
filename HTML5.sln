@@ -71,13 +71,22 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSS기본4", "CSS기본4", 
 		HTMLPage29.html = HTMLPage29.html
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSS속성", "CSS속성", "{85225889-BDD2-4BD7-8A41-E8265B800C44}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSS속성1", "CSS속성1", "{85225889-BDD2-4BD7-8A41-E8265B800C44}"
 	ProjectSection(SolutionItems) = preProject
 		HTMLPage30.html = HTMLPage30.html
 		HTMLPage31.html = HTMLPage31.html
 		HTMLPage32.html = HTMLPage32.html
 		HTMLPage33.html = HTMLPage33.html
 		HTMLPage34.html = HTMLPage34.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSS속성2", "CSS속성2", "{C43526FB-C5EC-4B82-B943-F3DD917B5E68}"
+	ProjectSection(SolutionItems) = preProject
+		HTMLPage35.html = HTMLPage35.html
+		HTMLPage36.html = HTMLPage36.html
+		HTMLPage37.html = HTMLPage37.html
+		HTMLPage38.html = HTMLPage38.html
+		HTMLPage39.html = HTMLPage39.html
 	EndProjectSection
 EndProject
 Global
